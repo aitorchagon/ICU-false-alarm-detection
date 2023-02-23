@@ -15,7 +15,7 @@ several heart rate variability statistics over the second and the fifth (such as
 the mean, the standard deviation or the entropy), obtaining a 0.68 on the public leaderboard
 and a 0.74 on the private and final one.
 
-The packages employed to design the algorithm are enumerated as follows:
+The packages employed to design the algorithm are enumerated as follows:   
 -Numpy.   
 -Scipy, especially the signal subpackage.     
 -Matplotlib (the pyplot visualization tool).   
